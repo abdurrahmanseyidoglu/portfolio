@@ -32,7 +32,7 @@ const projects = [
   {
     name: 'Imtilak Global',
     description:
-      'Features: The official website of Imtilak Group Company in UAE.',
+      'The official website of Imtilak Group Company in UAE.',
     stack: ['Blade', 'HTML', 'SASS', 'Jquery'],
     sourceCode: '',
     livePreview: 'https://www.imtilakglobal.ae',
